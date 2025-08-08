@@ -1,16 +1,37 @@
-## Hi there 👋
+## Seja bem-vindo (a)! 👋
 
+            
+          
+<h1>Minhas principais atividades</h1><br>
+👨🏼‍🏫 Atualmente, estou comprometido com a docência no ensino superior. <br>
+Linguagens e disciplinas nas quais tenho me empenhado. <br><br>   
 <!--
-**OdaGab/OdaGab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/15f044af-86f7-4515-aae5-bee973309765" />
+<img width="64" height="14.25" alt="image" src="https://github.com/user-attachments/assets/442d007e-928f-432b-bf37-382de01da569" />
 -->
+
+<div style="display: inline_block">
+  
+  <br>
+
+<!-- [![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+  -->
+  <p align="center">
+  <a href="https://github.com/OdaGab">
+    <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,flutter,html,css,arduino,typescript,docker,mysql,php" />
+  </a>
+</p>
+</div>
+
+<div>
+   <p align="center">
+  <a href="https://github.com/OdaGab">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OdaGab&theme=dark&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OdaGab&layout-compact&theme=dark&show_icons=true" />
+  </p>
+</div>
+
+
+
+
+
