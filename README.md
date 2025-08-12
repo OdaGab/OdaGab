@@ -4,7 +4,7 @@
           
 <h1>Minhas principais atividades</h1><br>
 👨🏼‍🏫 Atualmente, estou comprometido com a docência no ensino superior. <br>
-Linguagens e disciplinas nas quais tenho me empenhado. <br><br>   
+Linguagens e disciplinas nas quais tenho me empenhado: <br><br>   
 <!--
 <img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/15f044af-86f7-4515-aae5-bee973309765" />
 <img width="64" height="14.25" alt="image" src="https://github.com/user-attachments/assets/442d007e-928f-432b-bf37-382de01da569" />
