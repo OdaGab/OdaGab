@@ -20,7 +20,15 @@ Linguagens e disciplinas nas quais tenho me empenhado: <br><br>
   <a href="https://github.com/OdaGab">
     <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,eclipse,flutter,dart,html,css,arduino,typescript,docker,mysql,php,phpstorm,git,github,flask,idea,windows,linux,debian,react,gitlab" />
   </a>
-</p>
+              </p>
+              <p>
+              <br>
+                          <h3>Cursos on-line </h3> 
+  <a href="https://www.udemy.com/course/desenvolvimento-web-com-php-do-basico-ao-avancado/?couponCode=MT180825G1">
+    <img src="https://skillicons.dev/icons?i=php" />
+  </a>
+              </p>
+
 </div>
 
 <div>
