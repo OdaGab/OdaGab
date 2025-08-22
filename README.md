@@ -1,6 +1,6 @@
 ## Seja bem-vindo (a)! 👋
 
-            
+
           
 <h1>Minhas principais atividades</h1><br>
 👨🏼‍🏫 Atualmente, estou comprometido com a docência no ensino superior. <br>
@@ -24,13 +24,17 @@ Linguagens e disciplinas nas quais tenho me empenhado: <br><br>
               <p>
               <br>
                           <h3>Cursos on-line </h3> 
-  <a href="https://www.udemy.com/course/desenvolvimento-web-com-php-do-basico-ao-avancado/?couponCode=MT180825G1">
-    <img src="https://skillicons.dev/icons?i=php" />
+  <a href="https://www.udemy.com/course/desenvolvimento-web-com-php-do-basico-ao-avancado/?referralCode=F4C590402ADEE3B153F9">
+    <img src="https://img-c.udemycdn.com/course/750x422/5288406_2361_3.jpg" width="70" height="70"/>
+    </a>           
+  <a href="https://www.udemy.com/course/gerando_arquivo_php_fpdf/?referralCode=9AA40ED48A674178DA8E" >
+    <img src="https://img-c.udemycdn.com/course/750x422/4283044_2883_4.jpg" width="70" height="70" />
   </a>
-              </p>
+           
+
 
 </div>
-
+ <br>    <br>    <br>   
 <div>
    <p align="center">
   <a href="https://github.com/OdaGab">
