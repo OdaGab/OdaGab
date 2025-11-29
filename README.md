@@ -18,7 +18,7 @@ Linguagens e disciplinas nas quais tenho me empenhado: <br><br>
   -->
   <p align="center">
   <a href="https://github.com/OdaGab">
-    <img src="https://skillicons.dev/icons?i=azure,androidstudio,kotlin,java,eclipse,flutter,dart,html,css,arduino,typescript,docker,mysql,php,phpstorm,git,github,flask,idea,windows,linux,debian,react,gitlab,figma" />
+    <img src="https://skillicons.dev/icons?i=azure,androidstudio,kotlin,java,eclipse,flutter,dart,html,css,arduino,typescript,c,cpp,docker,mysql,php,phpstorm,git,github,flask,idea,windows,linux,debian,react,gitlab,figma" />
   </a>
               </p>
               <p>
