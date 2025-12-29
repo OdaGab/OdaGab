@@ -1,47 +1,37 @@
-## Seja bem-vindo (a)! 👋
+## Seja bem-vindo(a)! 👋
 
+### Minhas principais atividades
 
-          
-<h1>Minhas principais atividades</h1><br>
-👨🏼‍🏫 Atualmente, estou comprometido com a docência no ensino superior. <br>
-Linguagens e disciplinas nas quais tenho me empenhado: <br><br>   
-<!--
-<img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/15f044af-86f7-4515-aae5-bee973309765" />
-<img width="64" height="14.25" alt="image" src="https://github.com/user-attachments/assets/442d007e-928f-432b-bf37-382de01da569" />
--->
+👨🏼‍🏫 Atualmente, estou comprometido com a docência no ensino superior.  
+Linguagens e disciplinas nas quais tenho me empenhado:
 
-<div style="display: inline_block">
-  
-  <br>
+---
 
-<!-- [![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
-  -->
-  <p align="center">
+<p align="center">
   <a href="https://github.com/OdaGab">
     <img src="https://skillicons.dev/icons?i=azure,androidstudio,kotlin,java,eclipse,flutter,dart,html,css,arduino,typescript,c,cpp,docker,mysql,php,phpstorm,git,github,flask,idea,windows,linux,debian,react,gitlab,figma" />
   </a>
-              </p>
-              <p>
-              <br>
-                          <h3>Cursos on-line </h3> 
+</p>
+
+---
+
+### Cursos on-line
+
+<p align="center">
   <a href="https://www.udemy.com/course/desenvolvimento-web-com-php-do-basico-ao-avancado/?referralCode=F4C590402ADEE3B153F9">
-    <img src="https://img-c.udemycdn.com/course/750x422/5288406_2361_3.jpg" width="70" height="70"/>
-    </a>           
-  <a href="https://www.udemy.com/course/gerando_arquivo_php_fpdf/?referralCode=9AA40ED48A674178DA8E" >
-    <img src="https://img-c.udemycdn.com/course/750x422/4283044_2883_4.jpg" width="70" height="70" />
+    <img src="https://img-c.udemycdn.com/course/750x422/5288406_2361_3.jpg" width="80"/>
   </a>
-           
-
-
-</div>
- <br>    <br>    <br>   
-<div align="center">
-  <a href="https://github.com/OdaGab">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OdaGab&theme=dark&show_icons=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OdaGab&layout=compact&theme=dark&show_icons=true" />
+  <a href="https://www.udemy.com/course/gerando_arquivo_php_fpdf/?referralCode=9AA40ED48A674178DA8E">
+    <img src="https://img-c.udemycdn.com/course/750x422/4283044_2883_4.jpg" width="80"/>
   </a>
-</div>
+</p>
 
+---
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OdaGab&show_icons=true&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OdaGab&layout=compact&theme=dark"/>
+</p>
 
 
 
