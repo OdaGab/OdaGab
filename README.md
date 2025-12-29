@@ -35,12 +35,11 @@ Linguagens e disciplinas nas quais tenho me empenhado: <br><br>
 
 </div>
  <br>    <br>    <br>   
-<div>
-   <p align="center">
+<div align="center">
   <a href="https://github.com/OdaGab">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OdaGab&theme=dark&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OdaGab&layout-compact&theme=dark&show_icons=true" />
-  </p>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OdaGab&theme=dark&show_icons=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OdaGab&layout=compact&theme=dark&show_icons=true" />
+  </a>
 </div>
 
 
