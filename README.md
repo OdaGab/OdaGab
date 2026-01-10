@@ -30,7 +30,7 @@ Linguagens e disciplinas nas quais tenho me empenhado:
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=OdaGab&theme=github-dark)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0daGab&theme=dark&hide_border=true&include_all_commits=true)
+
 
 
 
