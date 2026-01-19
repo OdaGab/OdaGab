@@ -15,7 +15,7 @@ Linguagens e disciplinas nas quais tenho me empenhado:
 
 ---
 
-### Cursos online - Cursos disponíveis na Udemy
+### Cursos online - Disponíveis na Udemy
 
 <p align="center">
   <a href="https://www.udemy.com/course/desenvolvimento-web-com-php-do-basico-ao-avancado/?referralCode=F4C590402ADEE3B153F9">
