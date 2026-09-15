@@ -11,7 +11,7 @@ Linguagens e disciplinas nas quais tenho me empenhado:
   <a href="https://github.com/OdaGab">
     <img src="https://skillicons.dev/icons?i=aws,azure,python,androidstudio,kotlin,java,eclipse,flutter,dart,html,css,arduino,typescript,c,cpp,docker,mysql,php,phpstorm,git,github,flask,idea,windows,kali,linux,debian,react,gitlab,figma" />
   </a>
-[![committers.top badge](https://user-badge.committers.top/brazil/odagab.svg)](https://user-badge.committers.top/brazil/odagab)
+
 </p>
 
 ---
