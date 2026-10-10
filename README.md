@@ -15,9 +15,11 @@ Linguagens e disciplinas nas quais tenho me empenhado:
 </p>
 
 ---
+### Meu Rank a nível Brasil
+
+[![committers.top badge](https://user-badge.committers.top/brazil/Odagab.svg)](https://user-badge.committers.top/brazil/OdaGab)
 
 ### Cursos online - Disponíveis na Udemy
-
 <p align="center">
   <a href="https://www.udemy.com/course/desenvolvimento-web-com-php-do-basico-ao-avancado/?referralCode=F4C590402ADEE3B153F9">
     <img src="https://img-c.udemycdn.com/course/750x422/5288406_2361_3.jpg" width="80"/>
