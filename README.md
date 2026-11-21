@@ -11,7 +11,7 @@ Linguagens e disciplinas nas quais tenho me empenhado:
   <a href="https://github.com/OdaGab">
     <img src="https://skillicons.dev/icons?i=aws,azure,python,androidstudio,kotlin,java,eclipse,flutter,dart,html,css,arduino,typescript,c,cpp,docker,mysql,php,phpstorm,git,github,flask,idea,windows,kali,linux,debian,react,gitlab,figma" />
   </a>
-
+  <img src="https://hugovk.dev/python-3.15.png" height="48" alt="Logotipo do Python 3.15" />
 </p>
 
 ---
